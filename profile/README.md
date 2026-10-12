@@ -75,4 +75,4 @@ Collaborative commercial CRM engineered for client operations, deliverables, quo
 
 - **ContrastHub Platform:** [contrast3dhub.com](https://contrast3dhub.com)
 - **DSE Engine:** [datumstatutum.com](https://datumstatutum.com)
-- **Technical Contact:** datumstatutum.infra@gmail.com
+- **Technical Contact:** amendoza@contrast3d.com

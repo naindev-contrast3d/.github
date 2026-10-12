@@ -21,7 +21,7 @@ If you discover a potential security vulnerability in any repository, public end
 
 1. **Do not disclose publicly:** Please refrain from opening public GitHub issues, discussions, or pull requests regarding suspected security flaws.
 2. **Contact via email:** Submit a detailed report directly to:
-   - **Email:** `datumstatutum.infra@gmail.com`
+   - **Email:** `amendoza@contrast3d.com`
 3. **Include the following information:**
    - Affected system, repository, or endpoint URL.
    - Severity assessment and vector explanation.
