@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/logo.png" alt="Contrast3D & NainDev Logo" width="120" height="120" />
+  <img src="logo.png" alt="Contrast3D & NainDev Logo" width="120" height="120" />
   <h1>Contrast3D & NainDev</h1>
   <p><strong>Deterministic product conformance, interactive 3D inspection, and enterprise systems</strong></p>
 </div>
