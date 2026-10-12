@@ -2,6 +2,16 @@
   <img src="logo.png" alt="Contrast3D & NainDev Logo" width="120" height="120" />
   <h1>Contrast3D & NainDev</h1>
   <p><strong>Deterministic product conformance, interactive 3D inspection, and enterprise systems</strong></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
+    <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.12" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/PostgreSQL_18-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 18" />
+    <img src="https://img.shields.io/badge/Khronos-glTF_2.0-ED1C24?style=flat-square&logo=khronos-group&logoColor=white" alt="glTF 2.0" />
+    <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20Decoupled-555555?style=flat-square" alt="Decoupled Architecture" />
+  </p>
 </div>
 
 ---
