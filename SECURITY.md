@@ -11,7 +11,7 @@ At **Contrast3D & NainDev**, security, deterministic data integrity, and strict 
 | **ContrastViewer** | Interactive 3D web component (`<contrast-vehicle-viewer>`) | Supported |
 | **DSE (Datum Statutum Exploratum)** | Conformance chassis, validation API and MCP servers | Supported |
 | **ContrastHub** | Collaborative CRM platform and client services | Supported |
-| **Infrastructure & Edges** | Production host nodes (`NODE02`), tunnels, and CI gates | Supported |
+| **Infrastructure & Edges** | Production hosts, tunnels, and CI gates | Supported |
 
 ---
 
